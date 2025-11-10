@@ -1,0 +1,14 @@
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\bin\Debug\net9.0\TopLevelDemo.exe
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\bin\Debug\net9.0\TopLevelDemo.deps.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\bin\Debug\net9.0\TopLevelDemo.runtimeconfig.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\bin\Debug\net9.0\TopLevelDemo.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\bin\Debug\net9.0\TopLevelDemo.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.AssemblyInfoInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.AssemblyInfo.cs
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.csproj.CoreCompileInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\refint\TopLevelDemo.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\TopLevelDemo.genruntimeconfig.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\2\TopLevelDemo\obj\Debug\net9.0\ref\TopLevelDemo.dll

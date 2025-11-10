@@ -1,0 +1,14 @@
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\bin\Debug\net9.0\HelloDotNet.exe
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\bin\Debug\net9.0\HelloDotNet.deps.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\bin\Debug\net9.0\HelloDotNet.runtimeconfig.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\bin\Debug\net9.0\HelloDotNet.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\bin\Debug\net9.0\HelloDotNet.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.AssemblyInfo.cs
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\refint\HelloDotNet.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\HelloDotNet.genruntimeconfig.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\1\HelloDotNet\obj\Debug\net9.0\ref\HelloDotNet.dll

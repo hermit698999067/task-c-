@@ -1,0 +1,14 @@
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.AssemblyInfoInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.AssemblyInfo.cs
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.csproj.CoreCompileInputs.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\bin\Debug\net9.0\CalcCLI.exe
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\bin\Debug\net9.0\CalcCLI.deps.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\bin\Debug\net9.0\CalcCLI.runtimeconfig.json
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\bin\Debug\net9.0\CalcCLI.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\bin\Debug\net9.0\CalcCLI.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\refint\CalcCLI.dll
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.pdb
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\CalcCLI.genruntimeconfig.cache
+C:\Users\OhhhhhhhMYPC\Desktop\task c#\3\CalcCLI\obj\Debug\net9.0\ref\CalcCLI.dll
